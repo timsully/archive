@@ -11,4 +11,4 @@
 ### Python
 
 # Books Read
-[ ] - Name of Books Here
+- [x] Learn Ruby the Hard Way by Zed Shaw
