@@ -3,7 +3,7 @@
 * 2018 (This doesn't count hours of work, purely study after hours)
 * log on a per month hourly basis
 
-## Hours Logged Studying
+## Hours Logged Studying in 2018
 ### May - 21.47 hrs
 ### June - 57.3 hrs
 ### July - 25.63 hrs
@@ -12,8 +12,9 @@
 ### October - 7.18 hrs
 ### November - 29.94 hrs
 ### December - 21.38 hrs
+### Grand Total - 266.84 hrs
 
-## Hours Logged Reading
+## Hours Logged Reading in 2018 
 ### May - 5.48 hrs
 ### June - not logged in sheet, n/a
 ### July - 6.98 hrs
@@ -22,7 +23,7 @@
 ### October - 7.16 hrs
 ### November - 7.34 hrs
 ### December - 13.43 hrs
-
+### Grand Total - 62.28 hrs
 
 
 ## Commits committed in 2018 -
