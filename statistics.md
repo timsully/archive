@@ -26,6 +26,7 @@
 
 
 ## Commits committed - 
+![alt text](https://github.com/timsully/archive/blob/master/imgs/2018-github-profile.png "Github Profile")
 
 ## Primary Languages Studied in 2018
 ### Ruby
