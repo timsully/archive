@@ -26,7 +26,7 @@
 ### Grand Total - 62.28 hrs
 
 
-## Commits committed in 2018 -
+## Commits committed in 2018 - 877 Commits
 ![alt text](https://github.com/timsully/archive/blob/master/imgs/2018-github-profile.png "timsully Github Profile is lit")
 
 ## Primary Languages Studied in 2018
@@ -45,3 +45,4 @@
 - [x] [A Mind for Numbers: How to Excel at Math and Science by Barbara Oakley](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=sr_1_3?s=books&ie=UTF8&qid=1546216780&sr=1-3&keywords=a+mind+for+math+and+numbers)
 - [x] [Total Focus by John David Mann](https://www.amazon.com/Total-Focus-Better-Decisions-Pressure/dp/0735214514/ref=sr_1_1?ie=UTF8&qid=1546216815&sr=8-1&keywords=total+focus)
 - [x] [Unbeatable Mind by Mark Divine](https://www.amazon.com/Unbeatable-Mind-Resiliency-Toughness-Succeed/dp/1508730512/ref=sr_1_2?ie=UTF8&qid=1546216860&sr=8-2&keywords=unbeatable+mind)
+- [x] [The Operator by Robert O'Neill](https://www.simonandschuster.com/books/The-Operator/Robert-ONeill/9781501145049)
