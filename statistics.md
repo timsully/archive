@@ -4,35 +4,35 @@
 * log on a per month hourly basis
 
 ## Hours Logged Studying in 2018
-### May - 21.47 hrs
-### June - 57.3 hrs
-### July - 25.63 hrs
-### August - 57.6 hrs
-### September - 46.34 hrs
-### October - 7.18 hrs
-### November - 29.94 hrs
-### December - 21.38 hrs
-### Grand Total - 266.84 hrs
+#### May - 21.47 hrs
+#### June - 57.3 hrs
+#### July - 25.63 hrs
+#### August - 57.6 hrs
+#### September - 46.34 hrs
+#### October - 7.18 hrs
+#### November - 29.94 hrs
+#### December - 21.38 hrs
+#### Grand Total - 266.84 hrs
 
 ## Hours Logged Reading in 2018 
-### May - 5.48 hrs
-### June - not logged in sheet, n/a
-### July - 6.98 hrs
-### August - 18.89 hrs
-### September - 3 hrs
-### October - 7.16 hrs
-### November - 7.34 hrs
-### December - 13.43 hrs
-### Grand Total - 62.28 hrs
+#### May - 5.48 hrs
+#### June - not logged in sheet, n/a
+#### July - 6.98 hrs
+#### August - 18.89 hrs
+#### September - 3 hrs
+#### October - 7.16 hrs
+#### November - 7.34 hrs
+#### December - 13.43 hrs
+#### Grand Total - 62.28 hrs
 
 
 ## Commits committed in 2018 - 877 Commits
 ![alt text](https://github.com/timsully/archive/blob/master/imgs/2018-github-profile.png "timsully Github Profile is lit")
 
 ## Primary Languages Studied in 2018
-### Ruby
-### JavaScript
-### Python
+#### Ruby
+#### JavaScript
+#### Python
 
 # Books Read in 2018
 - [x] [Learn Ruby the Hard Way by Zed Shaw](https://learnrubythehardway.org/book/)
