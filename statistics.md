@@ -46,3 +46,7 @@
 - [x] [Total Focus by John David Mann](https://www.amazon.com/Total-Focus-Better-Decisions-Pressure/dp/0735214514/ref=sr_1_1?ie=UTF8&qid=1546216815&sr=8-1&keywords=total+focus)
 - [x] [Unbeatable Mind by Mark Divine](https://www.amazon.com/Unbeatable-Mind-Resiliency-Toughness-Succeed/dp/1508730512/ref=sr_1_2?ie=UTF8&qid=1546216860&sr=8-2&keywords=unbeatable+mind)
 - [x] [The Operator by Robert O'Neill](https://www.simonandschuster.com/books/The-Operator/Robert-ONeill/9781501145049)
+- [x] [Unshakeable by Tony Robbins](https://www.amazon.com/Unshakeable-Your-Financial-Freedom-Playbook/dp/1501164597/ref=asc_df_1501164597/?tag=hyprod-20&linkCode=df0&hvadid=245369089410&hvpos=1o1&hvnetw=g&hvrand=6510545403112596344&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031938&hvtargid=pla-524892334787&psc=1)
+- [x] [Mastery by George Leonard](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560)
+- [x] [CODE by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [x] [Getting More by Stuart Diamond](https://www.amazon.com/Getting-More-Negotiate-Succeed-Work/dp/0307716902/ref=sr_1_1?s=books&ie=UTF8&qid=1546759734&sr=1-1&keywords=getting+more)
