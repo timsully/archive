@@ -50,3 +50,4 @@
 - [x] [Mastery by George Leonard](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560)
 - [x] [CODE by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [x] [Getting More by Stuart Diamond](https://www.amazon.com/Getting-More-Negotiate-Succeed-Work/dp/0307716902/ref=sr_1_1?s=books&ie=UTF8&qid=1546759734&sr=1-1&keywords=getting+more)
+- [x] [The Book of Five Rings by Miyamoto Musashi](https://www.amazon.com/Book-Five-Rings-Japanese-Shambhala/dp/1590302486)
